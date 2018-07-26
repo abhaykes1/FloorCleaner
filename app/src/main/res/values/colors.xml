@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07A668</color>
+    <color name="colorPrimaryDark">#6FC36D</color>
+    <color name="colorAccent">#6FFF6D</color>
+    <!-- Green -->
+    <color name="green_temp">#23A96E</color>
+    <color name="green_dark">#159204</color>
+    <color name="bright_green">#02D8B0</color>
+    <color name="button_green">#10a54a</color>
+    <color name="button_page">#d3ffce</color>>
+</resources>
